@@ -15,7 +15,6 @@ deploy:
   bucket_path: docker-react
   on:
     branch: main
-  secure_key_id:
 env:
   global:
     - secure: k5aHZwkFE/1Afpbk/431vpTgLkQzN1XfTAiYWBlyUjI/FaUJr56ypqXLiJFpI7+M/O9d8T917TkuPlLl/qN9h+w5qsnUx7XTc+y/qXWBmRHQExlHlFsArvdprD+Gzr8CdyIHpekPjMXBIJnzOGQyleONzsDJa5HhHiZusYsxMfF3DQQjY5xJxw/nv6P6njGNVsnrXTP9Zi78VcjdCFm8+sXE9sE5SsQkdw+mccAxOpLqPaAiAhGgWFi5ZcMX1+teFrXFwICrtfZv3d+RTinEIRM+LqDN4B+U25DHsOYEiDXTxlH6+HTxpB7DVg00cSRKbffnFMy6FaVO0/sjPMewC+k0JvgN6HJSr4NOaXx9M5rA482uzQVBYy6Ck+M5gZeTginqvwKPjp/flnHpt4KB9u118lKhCeldsWropUX0oqF+VhdHByRYxfXj0Zkbn8n+Q7e6gZdq/xyTvNq5Sc5FPz5xOxMgASOikflLAqfY9si/BdWMN4w7QNACuEucBJ+3HDNIO+dJyGvWRnTCihQQrxSEAoJ63kenpGcjIrI5usFZmjYpAXVXM7fex5K4GLbAU3PJuvx1Vmceec+VJ8lJs+Q/bCGzx1RMQEUS/55BCEBFfuo9Dt8mgFnsdTNiNEIJNZRkEYYYDx/UoJBgot/WtscEXZkiLVlP10kmzxT6jUI=
